@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73968257563",
+    "project_id": "firebasfbhrmny",
+    "storage_bucket": "firebasfbhrmny.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73968257563:android:2ec16fc31f5b7a506e06be",
+        "android_client_info": {
+          "package_name": "com.example.harmeny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73968257563-o0jh0365mme086hi0hsamj34qk79r5t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6W8h7Mxh_s6z875PpGZjwc5RBCrp8JeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73968257563-o0jh0365mme086hi0hsamj34qk79r5t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
